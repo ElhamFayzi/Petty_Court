@@ -1,7 +1,9 @@
 # Petty Court
 
 **Winner of the Most Unique Project Award at SEO Hackathon.**
-[12.pdf](https://github.com/user-attachments/files/31119866/12.pdf)
+<img width="792" height="611" alt="12_" src="https://github.com/user-attachments/assets/89226399-7a7d-4f66-8fbe-c0be58bd9c0f" />
+
+
 
 
 A Jackbox-style party game where players litigate absurd, petty grievances in front of an AI judge. One device (a laptop, a TV browser) acts as the **big screen**; everyone else joins from their own phone as a **player**. Each round, two players are cast as plaintiff and defendant over a randomly picked petty dispute ("Who left one square of toilet paper on the roll"), write their arguments, and an AI judge hands down a verdict, awards Petty Points, and the rest of the players vote on who they think won. Whoever has the most points when the game ends is crowned pettiest of them all.
